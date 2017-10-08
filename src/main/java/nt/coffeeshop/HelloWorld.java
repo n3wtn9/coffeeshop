@@ -1,3 +1,5 @@
+package nt.coffeeshop;
+
 import static spark.Spark.*;
 
 public class HelloWorld {
